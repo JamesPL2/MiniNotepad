@@ -1,2 +1,1 @@
-# MiniNotepad
-Stworzyłem notatnik który można obsługiwac wyłączenie za pomocą klawiatury. Nie działa jeszcze funckcja zapisywania plików z unikatowym jak i zwykłym rozszerzeniem jak i wczytywanie pliku. Testowane na windows
+Link do pobania: https://drive.google.com/file/d/1r6k5va8St6skULwa5pGfXcuBRhVIeDvP/view?usp=drive_link , do użycia wymagany jest node.js
